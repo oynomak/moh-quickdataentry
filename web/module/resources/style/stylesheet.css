@@ -1,0 +1,34 @@
+<style>		
+	body{
+		background-color: #ffffff;
+	}
+	
+	input[type="text"] {
+		font-style: italic;
+		font-family: Georgia;
+		size: 5px;
+	}
+	
+	input[type="submit"] {
+		font-style: italic;
+		font-family: Georgia;
+	}
+	
+	.tableColumns {
+		size: 5px;
+		text-align: left;
+	}
+	
+	.dateField{
+		size:5px;
+	}
+	
+	.displayDiv{
+		display: inline;
+	}
+	
+	.hideDiv{
+		display: none;
+	}
+	
+</style>
